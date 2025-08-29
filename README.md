@@ -1,47 +1,25 @@
-# 🚀 Project Title  
+# 👋 Hello, I'm Manvitha  
 
-![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo?style=for-the-badge&color=green)  
-![Stars](https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge&color=yellow)  
-![Forks](https://img.shields.io/github/forks/your-username/your-repo?style=for-the-badge&color=blue)  
-![Issues](https://img.shields.io/github/issues/your-username/your-repo?style=for-the-badge&color=orange)  
-![License](https://img.shields.io/github/license/your-username/your-repo?style=for-the-badge&color=red)  
+## 🌟 Introduction  
+I’m passionate about technology, continuous learning, and exploring new domains.  
+Currently, I’m building my skills in software development, problem-solving, and modern technologies.  
 
 ---
 
-## 📖 Overview  
+## 🚀 Current Domains  
 
-A short description of your project goes here.  
-Explain **what the project does**, **why it exists**, and **who it’s for**.  
-
----
-
-## 🛠️ Tech Stack  
-
-![Tech 1](https://img.shields.io/badge/Tech1-000000?style=for-the-badge)  
-![Tech 2](https://img.shields.io/badge/Tech2-1572B6?style=for-the-badge)  
-![Tech 3](https://img.shields.io/badge/Tech3-F7DF1E?style=for-the-badge)  
+![Networks](https://img.shields.io/badge/Networks-228B22?style=for-the-badge&logo=cisco&logoColor=white)  
+![DevOps](https://img.shields.io/badge/DevOps-FF4500?style=for-the-badge&logo=devops&logoColor=white)  
+![Data Science](https://img.shields.io/badge/Data%20Science-1E90FF?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 
-## ✨ Features  
+## 🛠️ Skills  
 
-- ✅ Feature 1  
-- ✅ Feature 2  
-- ✅ Feature 3  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![R](https://img.shields.io/badge/R%20Programming-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 
 ---
-
-## ⚡ Installation  
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git  
-
-# Navigate into project folder
-cd your-repo  
-
-# Install dependencies
-npm install  
-
-# Run the project
-npm start  
