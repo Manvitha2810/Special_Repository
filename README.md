@@ -23,3 +23,4 @@ Currently, I’m building my skills in software development, problem-solving, an
 ![R](https://img.shields.io/badge/R%20Programming-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 
 ---
+[![Manvitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
